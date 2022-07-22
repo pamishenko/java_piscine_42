@@ -1,0 +1,12 @@
+/Users/pavel/42school_projects/Java_piscine_2/day02/ex00/files/FwooshCPP.jpeg
+/Users/pavel/42school_projects/Java_piscine_2/day02/ex00/files/FireballCPP.jpeg
+/Users/pavel/42school_projects/Java_piscine_2/day02/ex00/files/en.subject-23.pdf
+/Users/pavel/42school_projects/Java_piscine_2/day02/ex00/files/en.subject-18.pdf
+/Users/pavel/42school_projects/Java_piscine_2/day02/ex00/files/Авинаш_К_Диксит,_Сьюзан_Скит,_Дэвид_Т_Рейли_Стратегические_игры.pdf
+/Users/pavel/42school_projects/Java_piscine_2/day02/ex00/files/Авинаш_К_Диксит,_Сьюзан_Скит,_Дэвид_Т_Рейли_Стратегические_игры.pdf
+/Users/pavel/42school_projects/Java_piscine_2/day02/ex00/files/7IsB.gif
+/Users/pavel/42school_projects/Java_piscine_2/day02/ex00/Program.java
+/Users/pavel/42school_projects/Java_piscine_2/day02/ex00/signatures.txt
+/Users/pavel/42school_projects/Java_piscine_2/day02/ex00/files/7IsB.gif
+/Users/pavel/42school_projects/Java_piscine_2/day02/ex00/files/d01.tar
+
