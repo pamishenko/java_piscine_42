@@ -1,0 +1,10 @@
+/Users/pavel/42school_projects/Java_piscine_2/day05/ex01/Chat/src/main/java/edu/school21/chat/app/Program.java
+/Users/pavel/42school_projects/Java_piscine_2/day05/ex01/Chat/src/main/java/edu/school21/chat/repositories/UserRepository.java
+/Users/pavel/42school_projects/Java_piscine_2/day05/ex01/Chat/src/main/java/edu/school21/chat/models/Chatroom.java
+/Users/pavel/42school_projects/Java_piscine_2/day05/ex01/Chat/src/main/java/edu/school21/chat/repositories/UserRepositoryJdbcImpl.java
+/Users/pavel/42school_projects/Java_piscine_2/day05/ex01/Chat/src/main/java/edu/school21/chat/repositories/MessageRepository.java
+/Users/pavel/42school_projects/Java_piscine_2/day05/ex01/Chat/src/main/java/edu/school21/chat/repositories/ChatroomRepository.java
+/Users/pavel/42school_projects/Java_piscine_2/day05/ex01/Chat/src/main/java/edu/school21/chat/repositories/MessageRepositoryJdbcImpl.java
+/Users/pavel/42school_projects/Java_piscine_2/day05/ex01/Chat/src/main/java/edu/school21/chat/models/User.java
+/Users/pavel/42school_projects/Java_piscine_2/day05/ex01/Chat/src/main/java/edu/school21/chat/models/Message.java
+/Users/pavel/42school_projects/Java_piscine_2/day05/ex01/Chat/src/main/java/edu/school21/chat/repositories/ChatroomRepositoryJdbcImpl.java
